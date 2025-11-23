@@ -1,0 +1,29 @@
+
+
+##
+## # Desktop Environment
+##
+
+
+
+
+##
+## * https://wiki.archlinux.org/title/Bspwm
+##
+
+
+
+
+##
+## ## Package / Desktop Environment / Bspwm
+##
+
+bspwm
+sxhkd
+xdo
+
+
+feh
+tint2
+picom
+rofi
